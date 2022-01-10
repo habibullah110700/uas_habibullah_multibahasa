@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.sapikudadankerbau">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SapiKudaDanKerbau">
+        <activity
+            android:name=".ProfilActivity"
+            android:exported="true" />
+        <activity
+            android:name=".DaftarHewanAdapter"
+            android:exported="true" />
+        <activity
+            android:name=".DaftarHewanActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Tentang"
+            android:exported="true" />
+        <activity
+            android:name=".model.Kerbau"
+            android:exported="true"
+            tools:ignore="Instantiatable" />
+        <activity
+            android:name=".model.Kuda"
+            android:exported="true"
+            tools:ignore="Instantiatable" />
+        <activity
+            android:name=".model.Sapi"
+            android:exported="true"
+            tools:ignore="Instantiatable" />
+        <activity
+            android:name=".model.Hewan"
+            android:exported="true"
+            tools:ignore="Instantiatable" />
+        <activity
+            android:name=".DataProvider"
+            android:exported="true"
+            tools:ignore="Instantiatable" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

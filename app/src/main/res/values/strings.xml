@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Sapi Kuda Dan Kerbau</string>
+    <string name="sapi_kuda_dan_kerbau_pedia">Sapi Kuda dan Kerbau Pedia</string>
+    <string name="tentang">Tentang</string>
+    <string name="notifikasi">(Tekan gambar untuk membuka galeri)</string>
+    <string name="sapi">Ras Sapi</string>
+    <string name="kuda">Ras Kuda</string>
+    <string name="kerbau">Ras Kerbau</string>
+    <string name="sapi_list_title">Daftar Ras Sapi</string>
+    <string name="kuda_list_title">Daftar Ras Kuda</string>
+    <string name="kerbau_list_title">Daftar Ras Kerbau</string>
+
+    <string name="jenis_hewan">Jenis Hewan</string>
+    <string name="asal">Asal</string>
+    <string name="deskripsi_hewan">Deskripsi hewan</string>
+
+
+    <string name="nama">NAMA</string>
+    <string name="nim">NIM</string>
+    <string name="prodi">PRODI</string>
+    <string name="sistem_informasi">SISTEM INFORMASI</string>
+    <string name="semester">SEMESTER</string>
+
+    <!--    sapi-->
+    <string name="holstein_nama">holstein</string>
+    <string name="holstein_asal">Eropa</string>
+    <string name="holstein_deskripsi">Sapi holstein atau frisia merupakan salah satu trah sapi perah yang sekarang dikenal sebagai sapi yang terbanyak memproduksi susu di peternakan susu.</string>
+    <string name="galloway_nama">galloway</string>
+    <string name="galloway_asal">Skotlandia</string>
+    <string name="galloway_deskripsi">Galloway adalah salah satu breed sapi potong terpanjang di dunia, dinamai sesuai dengan wilayah Galloway di Skotlandia, tempat asalnya, pada abad ke-17.</string>
+    <string name="hereford_nama">hereford</string>
+    <string name="hereford_asal">iklim subtropis</string>
+    <string name="hereford_deskripsi">Sapi Hereford merupakan salah satu jenis sapi potong yang berasal dari daerah dengan iklim subtropis.</string>
+    <string name="cachena_nama">cachena</string>
+    <string name="cachena_asal">Portugal</string>
+    <string name="cachena_deskripsi">Cachena adalah jenis ternak tujuan ganda dari Portugal dan Galicia, Spanyol. Di Portugal, ada juga jenis ternak yang serupa tetapi lebih besar yang dikenal dengan nama Barrosão atau Barrosã</string>
+    <string name="anggus_nama">Anggus</string>
+    <string name="anggus_asal">Skotlandia</string>
+    <string name="anggus_deskripsi">Aberdeen Angus, terkadang hanya Angus, adalah jenis sapi potong kecil Skotlandia. Ini berasal dari ternak asli dari kabupaten Aberdeen, Banff, Kincardine dan Forfar di timur laut Skotlandia.</string>
+
+<!--    kuda-->
+    <string name="arab_nama">kuda arab</string>
+    <string name="arab_asal">arab</string>
+    <string name="arab_deskripsi">salah satu jenis ras kuda yang berasal dari daerah Arab, dipelihara orang untuk berbagai keperluan. Karena posturnya yang tinggi, performa yang istimewa yaitu ketahanan tubuh prima, kecerdasannya, lincah maka kuda arab dipakai juga untuk berperang.</string>
+    <string name="appoloosa_nama">kuda appoloosa</string>
+    <string name="appoloosa_asal">amerika</string>
+    <string name="appoloosa_deskripsi">Appaloosa adalah jenis kuda Amerika yang terkenal karena pola bulunya yang berwarna-warni, Ada berbagai macam tipe tubuh dalam breed, yang berasal dari pengaruh beberapa breed kuda sepanjang sejarahnya.</string>
+    <string name="dutch_nama">kuda Dutch warmblood</string>
+    <string name="dutch_asal">nederland</string>
+    <string name="dutch_deskripsi">Dutch Warmblood adalah jenis kuda berdarah panas yang terdaftar di Koninklijk Warmbloed Paardenstamboek Nederland, yang mengatur pemuliaan kuda-kuda kompetisi dan kuda lompat, serta kuda pacuan kuda dan kuda pacuan kuda</string>
+    <string name="mustang_nama">kuda Mustang</string>
+    <string name="mustang_asal">amerika serikat barat</string>
+    <string name="mustang_deskripsi">Mustang adalah kuda yang berkeliaran bebas di Amerika Serikat Barat, diturunkan dari kuda yang dibawa ke Amerika oleh Spanyol. Mustang sering disebut sebagai kuda liar</string>
+
+<!--    kerbau-->
+    <string name="murrah_nama">murrah</string>
+    <string name="murrah_asal">India</string>
+    <string name="murrah_deskripsi">Kerbau Murrah adalah jenis kerbau yang dipelihara terutama untuk produksi susu. Itu berasal dari Haryana dan Punjab di India</string>
+    <string name="rawa_nama">Rawa</string>
+    <string name="rawa_asal">Filipina</string>
+    <string name="rawa_deskripsi">Carabao adalah kerbau domestik jenis rawa asli Filipina. Carabao diperkenalkan ke Guam dari Spanyol Filipina pada abad ke-17</string>
+    <string name="mediterania_nama">mediterania</string>
+    <string name="mediterania_asal">Italia</string>
+    <string name="mediterania_deskripsi">Kerbau Mediterania Italia adalah jenis kerbau Italia. Kerbau ini termasuk jenis kerbau sungai dan mirip dengan jenis kerbau di Hungaria, Rumania dan negara-negara Balkan.</string>
+    <string name="nagfuri_nama">nagfuri</string>
+    <string name="nagfuri_asal">India</string>
+    <string name="nagfuri_deskripsi">Nagpuri adalah jenis kerbau yang berasal dari Maharashtra, India. Itu berdiri lebih baik di antara keturunan kerbau yang menggabungkan kualitas susu dan kekeringan dalam proporsi yang lebih baik dalam kondisi iklim yang merugikan.</string>
+    <string name="surti_nama">surti</string>
+    <string name="surti_asal">Gujarat</string>
+    <string name="surti_deskripsi">Surti adalah jenis kerbau yang ditemukan di distrik Kaira dan Vadodara di Gujarat antara sungai Mahi dan Sabarmati Rata–rata produksi susunya adalah 1600–1800 liter</string>
+    <string name="daftar_ras_judul">Daftar Ras Hewan</string>
+</resources>
